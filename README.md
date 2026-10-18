@@ -1,7 +1,7 @@
 # Amiscara Agents – Downloads
 
-Installers of Amiscara Agents for Windows and Linux, a client for
-[herdr](https://github.com/ogulcancelik/herdr) agents. The source lives in a
+Installers of Amiscara Agents for Windows and Linux, a client for the
+agents of a herdr server. The source lives in a
 private repository; this one only carries the releases and the update
 manifest (`latest.json`) the app checks.
 
